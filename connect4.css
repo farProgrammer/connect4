@@ -12,6 +12,8 @@ html {
 }
 
  .bg{ 
+  background-image: url(https://www.casualarena.com/bundles/app/st/games/co4/featured/featured-game-co4-en-m.png?6948738);
+	background-size: cover;
    
    background-color: black;
    
@@ -46,11 +48,11 @@ html {
 }
 
 .piece.p1 {
-  background-color:midnightblue;
+  background-color:white;
 }
 
 .piece.p2 {
-  background-color:coral;
+  background-color:black;
 }
 
 
