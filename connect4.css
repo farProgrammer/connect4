@@ -1,0 +1,65 @@
+
+
+html {
+	font-family: "Montserrat", Futura, Helvetica, sans-serif;
+	text-align: center;
+	-webkit-font-smoothing: subpixel-antialiased;
+	color:maroon;
+  text-decoration: grey underline;
+  
+  
+	
+}
+
+ .bg{ 
+   
+   background-color: black;
+   
+ } 
+#title {
+	cursor: pointer;
+}
+
+
+.container {
+	width: 670px;
+	margin: 0 auto;
+  
+  
+}
+
+#board td {
+  width: 50px;
+  height: 50px;
+  border: solid 1px darkred;
+
+  
+}
+
+
+
+.piece {
+  margin: 5px;
+  width: 80%;
+  height: 80%;
+  border-radius: 50%;
+}
+
+.piece.p1 {
+  background-color:midnightblue;
+}
+
+.piece.p2 {
+  background-color:coral;
+}
+
+
+
+#column-top td {
+  border: dashed 1px yellowgreen;
+}
+
+#column-top td:hover {
+  background-color:red;
+}
+
