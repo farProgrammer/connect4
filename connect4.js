@@ -1,7 +1,7 @@
 
 
-const WIDTH = 7;
-const HEIGHT = 6;
+const WIDTH = 15;
+const HEIGHT = 12;
 
 let currPlayer = 1; 
 let board = []; 
